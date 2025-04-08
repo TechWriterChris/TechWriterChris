@@ -1,4 +1,4 @@
-# Hi, I'm Christine 👋
+# Hi, I'm Christine!
 
 I'm a technical writer with a background in professional writing, instructional content, and applied tech. I use GitHub to share documentation-focused projects and occasional code samples that support my writing work.
 
